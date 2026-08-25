@@ -1,2 +1,2 @@
-# terradorm-example
+# terraform-example
 Repository created by Terraform
